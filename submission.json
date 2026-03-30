@@ -1,0 +1,8 @@
+{
+  "prompt": "A dark landscape where thousands of small human silhouettes fade and disappear from left to right, representing child deaths per year declining over decades. No text, no axes, no legend, no charts. Pure visual metaphor. Cinematic, emotional, wide format, photorealistic lighting.",
+  "model": "dall-e-3",
+  "version": "DALL-E 3",
+  "dataset_name": "Child Mortality Rate - Our World in Data",
+  "dataset_url": "https://ourworldindata.org/child-mortality",
+  "insight": "Global child mortality has fallen by over 60% since 1990, yet millions of children still die each year from preventable causes."
+}
