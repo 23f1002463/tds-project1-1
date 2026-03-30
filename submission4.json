@@ -1,0 +1,6 @@
+{
+  "prompt": "Two separate groups of people on a hillside — in each group, everyone is clearly climbing upward. But when viewed from far away as one crowd, the overall movement appears to flow downward. No text, no numbers, no charts, no labels. Surreal but physically plausible scene. Cinematic lighting, photorealistic.",
+  "model": "dall-e-3",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Each subgroup visibly moves upward, but the combined crowd appears to move downward — embodying how a trend can reverse when groups are merged, without using any numbers or charts."
+}
